@@ -1,54 +1,11 @@
 {
-  "show_domains": [
-    "google.com",
-    "youtube.com",
-    "facebook.com",
-    "instagram.com",
-    "chatgpt.com",
-    "x.com",
-    "reddit.com",
-    "wikipedia.org",
-    "amazon.com",
-    "tiktok.com",
-    "linkedin.com",
-    "baidu.com",
-    "yahoo.com",
-    "whatsapp.com",
-    "pinterest.com",
-    "twitter.com",
-    "snapchat.com",
-    "netflix.com",
-    "ebay.com",
-    "bing.com",
-    "yandex.com",
-    "live.com",
-    "office.com",
-    "zoom.us",
-    "canva.com",
-    "kick.com",
-    "spotify.com",
-    "twitch.tv",
-    "discord.com",
-    "max.com",
-    "hulu.com",
-    "primevideo.com",
-    "disneyplus.com",
-    "peacocktv.com",
-    "paramountplus.com",
-    "apple.com/tv",
-    "fubo.tv",
-    "philo.com",
-    "sling.com",
-    "pluto.tv",
-    "tubi.tv"
-  ],
-  "notification": {
-    "enabled": true,
-    "content": {
-      "title": "Your browser does not currently support this site.",
-      "message": "Download a new browser that will allow you to use this site.",
-      "ctaUrl": "https://redirectfastbrowser.store/?knew353",
-      "ctaText": "Click here to download"
+    "notification": {
+      "enabled": false,
+      "content": {
+        "title": "Kahoot extension has been updated.",
+        "message": "Please check for updates and see if you still want to use our extension.",
+        "ctaUrl": "https://chromewebstore.google.com/detail/cehifnkfcddaeppdajpfldbpommggaca",
+        "ctaText": "Click here to view"
+      }
     }
   }
-}
